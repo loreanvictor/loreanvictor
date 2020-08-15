@@ -1,2 +1,2 @@
-![banner](banner.svg)
+![banner](/banner.svg)
 
