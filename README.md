@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="profile-header.png" width="70%"/>
+</div>
+
+<br><br>
+
 Hi, I am Eugene Ghanizadeh Khoub. I study informatics at [TUM](https://www.tum.de/en/), have worked in different positions in [@cafebazaar](https://github.com/cafebazaar), and am currently work with [@CONNECT-platform](https://github.com/CONNECT-platform) on [**CODEDOC**](https://github.com/CONNECT-platform/codedoc) and [coding.blog](https://github.com/CONNECT-platform/coding-blog), and with [@ecomply](https://github.com/ecomply) on data protection.
 
 👉 Here are the other (coding) stuff that (currently) interest me (and so I am working on):
@@ -28,3 +34,7 @@ I love the idea of utilizing JSX with explicit reactive programming (so no VDOM,
 - [Kāshi](https://github.com/loreanvictor/kaashi): a turing-complete json-like language
 - [My Blog](https://eugene.coding.blog): which I sometimes update with some new stuff
 - [Also I write stuff on Dev.to](https://dev.to/loreanvictor)
+
+<div align="center">
+  <img src="stuff-on-profile.svg" width="50%"/>
+</div>
