@@ -4,7 +4,7 @@
 
 <br><br>
 
-Hi, I am Eugene Ghanizadeh Khoub. I study informatics at [TUM](https://www.tum.de/en/), have worked in different positions in [@cafebazaar](https://github.com/cafebazaar), and am currently work with [@CONNECT-platform](https://github.com/CONNECT-platform) on [**CODEDOC**](https://github.com/CONNECT-platform/codedoc) and [coding.blog](https://github.com/CONNECT-platform/coding-blog), and with [@ecomply](https://github.com/ecomply) on data protection.
+Hi, I am Eugene Ghanizadeh Khoub. I study informatics at [TUM](https://www.tum.de/en/), have worked in different positions in [@cafebazaar](https://github.com/cafebazaar), and am currently working with [@CONNECT-platform](https://github.com/CONNECT-platform) on [**CODEDOC**](https://github.com/CONNECT-platform/codedoc) and [coding.blog](https://github.com/CONNECT-platform/coding-blog), and with [@ecomply](https://github.com/ecomply) on data protection.
 
 👉 Here are the other (coding) stuff that (currently) interest me (and so I am working on):
 
