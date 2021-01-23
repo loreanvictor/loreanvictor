@@ -23,6 +23,8 @@ I love the idea of utilizing JSX with explicit reactive programming (so no VDOM,
 
 - [render-jx](https://github.com/loreanvictor/render-jsx): a set of tools for building JSX libraries
 - [callbag-jsx](https://github.com/loreanvictor/callbag-jsx): JSX + callbags, tiny performant explicitly reactive frontend library
+- [themed-jss](https://github.com/loreanvictor/themed-jss/): JSS with Theming and automatic dark mode support + integration for callbag-jsx and React
+- [callbag-router](https://github.com/loreanvictor/callbag-router): simple SPA router based on callbags
 
 ## 🚀 Backend Tooling
 
