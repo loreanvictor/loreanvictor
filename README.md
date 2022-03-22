@@ -4,7 +4,7 @@
 
 <br><br>
 
-Hi, I am Eugene Ghanizadeh Khoub. I study informatics at [TUM](https://www.tum.de/en/), have helped out [@CafeBazaar](https://github.com/cafebazaar), and [@CONNECT-platform](https://github.com/CONNECT-platform), and worked on [**CODEDOC**](https://github.com/CONNECT-platform/codedoc) and [coding.blog](https://github.com/CONNECT-platform/coding-blog). Currently I work with [@ECOMPLY](https://github.com/ecomply) on data protection, help [@Divar](https://github.com/divar-ir) with product management, and try to see what comes out of [@Vitrine](https://github.com/vitrin-app).
+Hi, I am Eugene Ghanizadeh Khoub. I study informatics at [TUM](https://www.tum.de/en/), have helped out [@CafeBazaar](https://github.com/cafebazaar), [@CONNECT-platform](https://github.com/CONNECT-platform), and [@coding.blog](https://github.com/Coding-blog) and worked on [**CODEDOC**](https://github.com/CONNECT-platform/codedoc). Currently I work with [@ECOMPLY](https://github.com/ecomply) on data protection, help [@Divar](https://github.com/divar-ir) with product management, and try to see what comes out of [@Vitrine](https://github.com/vitrin-app).
 
 👉 Here are the other (coding) stuff that (currently) interest me (and so I am working on):
 
