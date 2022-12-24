@@ -10,21 +10,20 @@ Hi, I am Eugene Ghanizadeh Khoub. I study informatics at [TUM](https://www.tum.d
 
 ## ⚡ Reactive Programming
 
-Specifically, [RxJS](https://github.com/ReactiveX/rxjs) and more recently, [Callbags](https://github.com/callbag/callbag) and [Streamlets](https://github.com/loreanvictor/streamlet). Here are the stuff I work on in this area:
+Specifically, [RxJS](https://github.com/ReactiveX/rxjs) and more recently, [quel](https://github.com/loreanvictor/quel), [Callbags](https://github.com/callbag/callbag) and [Streamlets](https://github.com/loreanvictor/streamlet). Here are the stuff I work on in this area:
 
+- [quel](https://github.com/loreanvictor/quel): imperative reactive programming
 - [streamlets](https://github.com/loreanvictor/streamlet): a protocol for handling data/event streams (its like callbags but marginally faster and pausable by default).
 - [callbag-common](https://github.com/loreanvictor/callbag-common): a hand-picked and patched collection of callbag utilities
-- [callbag-expr](https://github.com/loreanvictor/callbag-expr): easy expressions with callbags
 - [callbag-state](https://github.com/loreanvictor/callbag-state) and [callbag-state-keyed](https://github.com/loreanvictor/callbag-state-keyed): as-easy-as-it-gets and versatile state management using callbags
-- [rxdeep](https://github.com/loreanvictor/rxdeep): same thing but for RxJS
 
 ## 🎨 Frontend Libraries
 
-I love the idea of utilizing JSX with explicit reactive programming (so no VDOM, better performance, etc.). Stuff that I work on on this front:
+I believe in possibility of simple and straightforward frontend tooling based on fine-grained reactivity. On that front, these are the stuff I've been working on:
 
+- [minicomp](https://github.com/loreanvictor/minicomp): web components using functions and hooks
 - [graphis](https://github.com/loreanvictor/graphis): a convenient and stylish icon-font based on emojis
 - [callbag-jsx](https://github.com/loreanvictor/callbag-jsx): JSX + callbags, tiny performant explicitly reactive frontend library
-- [themed-jss](https://github.com/loreanvictor/themed-jss/): JSS with Theming and automatic dark mode support + integration for callbag-jsx and React
 - [react-callbag-streams](https://github.com/loreanvictor/react-callbag-streams): a library for conveniently using callbag streams in React
 
 ## 🚀 Backend Tooling
