@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="profile-header.png" width="70%"/>
+  <img src="banner-light.svg#gh-light-mode-only" width="80%"/>
+  <img src="banner-dark.svg#gh-dark-mode-only" width="80%"/>
 </div>
 
 <br><br>
