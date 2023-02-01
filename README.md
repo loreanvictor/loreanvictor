@@ -32,6 +32,7 @@ I am Eugene Ghanizadeh Khoub, I study informatics at [TUM](https://www.tum.de/en
 
 ## 🧐 Other
 
+- [tmplr](https://github.com/loreanvictor/tmplr): next-level project scaffolding tool
 - [Kāshi](https://github.com/loreanvictor/kaashi): a turing-complete json-like language
 - [My Blog](https://eugene.coding.blog): which I sometimes update with some new stuff
 - [Also I write stuff on Dev.to](https://dev.to/loreanvictor)
