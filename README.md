@@ -44,6 +44,10 @@ I am Eugene Ghanizadeh Khoub, I study informatics at [TUM](https://www.tum.de/en
 - [My Blog](https://eugene.coding.blog): which I sometimes update with some new stuff
 - [Also I write stuff on Dev.to](https://dev.to/loreanvictor)
 
+<br>
+
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=loreanvictor&theme=react-dark)
+
 <div align="center">
   <img src="stuff-on-profile.svg" width="50%"/>
 </div>
